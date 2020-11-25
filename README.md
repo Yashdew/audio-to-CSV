@@ -1,6 +1,7 @@
 # audio-to-CSV
 Speech Recognition for creating Datasets
-Thing to write in CMD
+
+Things to write in CMD
 
 1-> pip install virtualenv
 
