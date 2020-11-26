@@ -47,7 +47,7 @@ def get_large_audio_transcription(path):
                 text = f"{text.capitalize()}. "
                 print(chunk_filename, ":", text)
                 whole_text += text
-    # return the text for all chunks detected
+    # return the text for all chunks detected1
     return whole_text
 
 
